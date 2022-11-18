@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Button.qml</file>
+        <file>SpriteButton.qml</file>
+        <file>FantaButton.qml</file>
+        <file>../../Qt/soda_machine/fanta.png</file>
+        <file>../../Qt/soda_machine/sprite.png</file>
+        <file>Fantacan.qml</file>
+        <file>Spritecan.qml</file>
+        <file>Colacan.qml</file>
+        <file>FunctionBtn.qml</file>
+    </qresource>
+</RCC>
